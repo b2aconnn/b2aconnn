@@ -1,5 +1,5 @@
 ### Hi there 👋
-백엔드 개발을 주로 하는 개발자입니다.
+안녕하세요, 개발자 HJ Park입니다.
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b2aconnn&show_icons=true&theme=dark) -->
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b2aconnn&show_icons=true&theme=merko) -->
